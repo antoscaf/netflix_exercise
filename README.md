@@ -3,4 +3,4 @@ Esercizio: riproduzione sito Netflix
 
 
 Ciao!
-Sto cercando di capire come funzione Github tramite la guida del sito! 
+Sto cercando di capire come funziona Github tramite la guida del sito! 
